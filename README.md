@@ -210,6 +210,6 @@ Please open issues or submit pull requests for:
 
 ## Author
 
-Built by **Shreyas Gaikwad** 
-Focus: Machine Learning, Time-Series Forecasting, and Applied Data Science
+Built by **Shreyas Gaikwad**
 
+Focus: Machine Learning, Time-Series Forecasting, and Applied Data Science

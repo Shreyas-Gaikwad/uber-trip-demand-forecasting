@@ -1,0 +1,22 @@
+# Core data & analysis
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+
+# Time series & statistics
+statsmodels>=0.13
+
+# Machine learning
+scikit-learn>=1.2
+joblib>=1.2
+
+# Forecasting (optional but recommended)
+prophet>=1.1
+
+# Dashboard
+dash>=2.14
+plotly>=5.18
+
+# Optional performance boost (auto-fallback in code)
+lightgbm>=4.0

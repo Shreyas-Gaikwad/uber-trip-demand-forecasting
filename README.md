@@ -213,5 +213,3 @@ Please open issues or submit pull requests for:
 Built by **Shreyas Gaikwad**  
 Master’s in Computer Applications (MCA)  
 Focus: Machine Learning, Time-Series Forecasting, and Applied Data Science
-
-```
